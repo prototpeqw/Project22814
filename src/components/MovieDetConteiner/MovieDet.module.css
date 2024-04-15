@@ -1,0 +1,74 @@
+.MoiveDet{
+    display: flex;
+    position: relative;
+
+
+}
+
+.MoiveDet img{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    left:20vw;
+    top: 8vh ;
+    margin: 0;
+    padding: 0;
+}
+
+
+.MoiveDet h1{
+    white-space: nowrap;
+
+    position: relative;
+    left: 27vw;
+    color: #076565;
+
+}
+
+
+
+.det{
+    display: flex;
+    position: relative;
+    color: #076565;
+
+
+    top: 40vh;
+    left: 40vw;
+    font-size: 2vw;
+    cursor: pointer;
+
+}
+
+
+.overview{
+    display: flex;
+    position: absolute;
+    left: 20vw;
+    top: 90vh;
+    color: #076565;
+
+}
+
+.realse{
+
+    display: flex;
+    position: absolute;
+    font-size: 1.2vw;
+    top: 10vh;
+    left: 55vw;
+    color: #076565;
+
+}
+.Rating {
+    position: relative;
+    top: 20vh;
+    left: 5vw;
+
+}
+
+.starsdet{
+    position: relative;
+    top: 27vh;
+    left: 24vw;
+}

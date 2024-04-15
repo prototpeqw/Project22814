@@ -1,0 +1,16 @@
+.Genre{
+    left: 5vw;
+    position: relative;
+    display: flex;
+    font-size: 10px;
+    margin: 3px;
+
+}
+
+
+.Genre h1{
+    background-color: rgba(0, 0, 0, 0.82);
+    color: snow;
+    cursor: pointer;
+
+}
